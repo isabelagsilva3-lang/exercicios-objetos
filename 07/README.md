@@ -24,9 +24,6 @@ const livro = {
             nome: "A regra de ouro da mudança de hábito",
         },
         {
-            nome: "Hábitos angulares, ou a balada de Paul O`neill",
-        },
-        {
             nome: "Starbucks e o hábito do sucesso",
         },
         {
@@ -42,7 +39,10 @@ const livro = {
             nome: "A neorologia do livre-arbítrio",
         },
     ]
-}
+}        },
+        {
+            nome: "Hábitos angulares, ou a balada de Paul O`neill",
+
 ```
 
 _Lembre-se que existe uma estrutura de repetição que nos ajuda em questão das posições dos elementos contidos no array. Portanto, o resultado final para o exemplo acima, deverá ser como ilustrado abaixo:_
